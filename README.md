@@ -10,14 +10,13 @@ This project is an Android game inspired by the popular Fruit Ninja game. The ga
 To deploy this project run
 
 ```bash
-  npm run deploy
+  sh
+Copy code
+git clone https://github.com/your-username/fruit-ninja-android-game.git
 ```
 
 Clone the Repository:
 
-sh
-Copy code
-git clone https://github.com/your-username/fruit-ninja-android-game.git
 Open the Project:
 
 Open Android Studio.
